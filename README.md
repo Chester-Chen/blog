@@ -1,3 +1,3 @@
 # blog
 
-Wendell Hu © 2018 - 2019
+Wendell Hu © 2018 - 2020
